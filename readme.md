@@ -14,7 +14,7 @@ Currently there are hundreds of 76x76 icons provided in this pack (the legacy fo
 
 ## WindowsRT
 
-Coming Soon:
+Coming Soon:::::
 
 ## Expression Design
 
